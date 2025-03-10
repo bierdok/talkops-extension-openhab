@@ -31,6 +31,8 @@ services:
       BASE_URL: [your-value]
       API_TOKEN: [your-value]
     restart: unless-stopped
+
+
 ```
 
 ## Environment Variables
